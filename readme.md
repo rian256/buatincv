@@ -30,7 +30,7 @@ Based on its documentation, [Gofpdf](https://github.com/jung-kurt/gofpdf) is not
 
 ## Installation
 ```
-go install github.com/rian256/buatincv/cmd@latest
+go get github.com/rian256/buatincv/
 ```
 
 ## Usage
