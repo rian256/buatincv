@@ -29,10 +29,11 @@ CV design inspired by https://glints.com/id/lowongan/cv-ats-friendly/ (This arti
 Based on its documentation, [Gofpdf](https://github.com/jung-kurt/gofpdf) is not being maintained, at least for an unknown duration. However, I haven't encountered any issues when using it. If you have recommendations for alternative PDF Document Generator, feel free to provide suggestions via issues or pull requests.
 
 ## Usage
+Clone this repo, then build using the command make build.
 ```
-[rian@archlinux] ./buatincv
+[rian@archlinux] ./main
  ```
-Simply type "./buatincv" without quotation mark in terminal to get started with.
+Simply type "./main" without quotation mark in terminal to get started with.
 
 ## Version History
 - 1.0.0 
